@@ -1,16 +1,13 @@
 # 🚗 Vehicles Sales Dashboard – Power BI Project
 
+![Uploading image.png…]()
+
+
 ![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=flat&logo=power-bi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 A clean, interactive, and insight-rich Power BI dashboard that analyzes vehicle sales data across different product lines, countries, years, and more. This report is ideal for stakeholders looking to track performance, identify top markets, and analyze sales distribution across products and regions.
-
----
-
-## 📸 Dashboard Preview
-
-![Vehicles Sales Dashboard](screenshots/dashboard.png)
 
 ---
 
