@@ -82,3 +82,17 @@ This dashboard is designed for:
 3. Open `vehicles sales.pbix` in Power BI Desktop.
 4. Use filters and slicers to interact with the visuals.
 5. Modify visuals, styles, or data fields as needed for your own use case.
+
+---
+## 🔮 Future Enhancements  
+- 🔹 Integrate real-time Netflix data (if available).  
+- 🔹 Add sentiment analysis on movie descriptions.  
+- 🔹 Enhance filtering options for better customization.  
+
+---
+
+## 👨‍💻 Author  
+Vijay Krishna |   https://github.com/Vijaykrishna2000
+
+📌 **If you find this project useful, don’t forget to ⭐ the repo!** 😊  
+
