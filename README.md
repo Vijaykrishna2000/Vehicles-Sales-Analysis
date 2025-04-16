@@ -1,6 +1,7 @@
 # 🚗 Vehicles Sales Dashboard – Power BI Project
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0da04b45-233d-444c-9f3b-5c0462c1fbe0)
+
 
 
 ![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=flat&logo=power-bi)
